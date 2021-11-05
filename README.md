@@ -35,7 +35,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gekikara404&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515" width="50%" />
 
-- 🔭 I’m currently not working on any Company, just doing a couple of side Project!
+- 🔭 I’m currently Company being frontend developer using Vue.js 
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js) and doing a couple of side Project!
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate with Other Developers.
 - 🤔 I’m looking for help with Golang as Backend.
