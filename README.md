@@ -35,8 +35,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gekikara404&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515" width="50%" />
 
-- 🔭 I’m currently Company being frontend developer using Vue.js 
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js) and doing a couple of side Project!
+- 🔭 I’m currently Company being frontend developer using Vue.js and doing a couple of side Project!
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate with Other Developers.
 - 🤔 I’m looking for help with Golang as Backend.
@@ -47,40 +46,4 @@
 ![](https://komarev.com/ghpvc/?username=gekikara404&color=orange&style=flat-square)
 
 ![CheckingMyWebsite](https://img.shields.io/website?url=https%3A%2F%2Fpro-ject.xyz)
-
-<!-- ```text
-⌚︎ Timezone: Asia/Jakarta
-
-🐲 weekly language rankings
------------------------------------------------------------------
-          plaintext : ▮▮▮▮▮▮ 25.0%
-                php : ▮▮▮▮▮▮ 25.0%
-         javascript : ▮▮▮▮▮▮ 25.0%
-        shellscript : ▮▮▮ 12.5%
-               html : ▮▮▮ 12.5%
-                     
-                     
-🐲 Global weekly language rankings
------------------------------------------------------------------
-           javascript : ▮▮▮▮▮ 21.2%
-                  php : ▮▮ 8.0%
-           typescript : ▮▮ 7.6%
-                 html : ▮▮ 7.3%
-            plaintext : ▮▮ 6.5%
-               python : ▮▮ 5.8%
-                  vue : ▮ 3.9%
-      typescriptreact : ▮ 3.5%
-                 json : ▮ 3.5%
-                  css : ▮ 2.6%
-                 scss : ▮ 2.6%
-                 dart : ▮ 2.6%
-      javascriptreact : ▮ 2.2%
-             markdown : ▮ 2.1%
-                 java : ▮ 2.0%
-                 yaml : ▮ 1.7%
-                jsonc : ▮ 1.5%
-                  cpp : ▮ 1.2%
-                   go : ▮ 1.1%
-                other : ▮▮▮ (438 totaling 13.2%)
-``` -->
 
