@@ -9,6 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 
