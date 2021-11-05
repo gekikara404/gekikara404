@@ -40,19 +40,6 @@
 - 🤔 I’m looking for help with Golang as Backend.
 - 📫 How to reach me: web.agungsatrio@gmail.com
 
-<!--
-**gekikara404/agungsatrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Company and a couple of side Project!
-- 🌱 I’m currently learning Backend dev
-- 👯 I’m looking to collaborate wiith Other Developers
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: m.waziruddin@gmail.com
-- ⚡ Fun fact: I Hate Electrical but i used to go to Electrical College
--->
-
 [![mohammedwazier's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gekikara404&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/gekikara404)
 
 ![](https://komarev.com/ghpvc/?username=gekikara404&color=orange&style=flat-square)
