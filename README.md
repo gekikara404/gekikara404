@@ -42,8 +42,6 @@
 - 🤔 I’m looking for help with Golang as Backend.
 - 📫 How to reach me: web.agungsatrio@gmail.com
 
-[![mohammedwazier's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gekikara404&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/gekikara404)
-
 ![](https://komarev.com/ghpvc/?username=gekikara404&color=orange&style=flat-square)
 
 ![CheckingMyWebsite](https://img.shields.io/website?url=https%3A%2F%2Fpro-ject.xyz)
